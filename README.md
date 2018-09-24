@@ -9,3 +9,6 @@ Import CustomEditor folder to root folder of your assets /Assets/.
 
 # How to...
 Open Window>HierarchyCustomizer then select some object in your hierarchy and then press "Add selected" at openned window. Now you can customize how objects with that name will look like. After edditing press "Save"
+
+# Links
+Link to thread on Unity3d Forum - https://forum.unity.com/threads/hierarchy-customizer.560068/
